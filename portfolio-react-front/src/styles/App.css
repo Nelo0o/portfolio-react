@@ -92,7 +92,7 @@ footer h3 {
 }
 
 .project-card-button:hover {
-  background-color: var(--secondary-hover);
+  background-color: var(--secondary);
   color: var(--secondary);
   border: 1px solid var(--secondary);
 }
